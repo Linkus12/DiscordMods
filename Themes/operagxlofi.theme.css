@@ -11,6 +11,7 @@
  * @BDEditor Opera GX LoFi
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
@@ -43,7 +44,7 @@
   --gradient-direction: 320deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
-  --font: gg sans;
+  --font: Chakra Petch;
   --window-padding: 0px;
   --window-roundness: 0px;
   --update-notice-1: none;
